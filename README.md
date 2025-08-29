@@ -5,7 +5,7 @@ This repository contains my daily learning progress in Java Programming and rela
 Each day I’m documenting the topics I studied and the key takeaways. 🚀
 
 ### 🗓 Day 1
-
+---
 Topic: Git Programming
 
 #### 📖 Content:
@@ -15,9 +15,9 @@ Topic: Git Programming
 * Version History & Messages
 * ✅ Learned the basics of git and github, including version control essentials.
 
----
-### 🗓 Day 2
 
+### 🗓 Day 2
+---
 Topic: Java Architecture
 
 #### 📖 Content:
@@ -26,9 +26,9 @@ Topic: Java Architecture
 * Garbage Collector
 * ✅ Studied the Java Architecture in detail and understood its components & subtypes.
  
----
-### 🗓 Day 3
 
+### 🗓 Day 3
+---
 Topic: Basic Elements of Programming
 
 #### 📖 Content:
@@ -40,9 +40,9 @@ Topic: Basic Elements of Programming
 * Variable Scope
 * ✅ Studied Java Basics in-depth.
 
----
-### 🗓 Day 4
 
+### 🗓 Day 4
+---
 Topic: Programming Constructs
 
 #### 📖 Content:
@@ -52,9 +52,9 @@ Topic: Programming Constructs
 * ✅ Studied loops in Java and solved classroom problems.
 Also created a Basic Calculator program.
 
----
-### 🗓 Day 5
 
+### 🗓 Day 5
+---
 Topic: Arrays
 
 #### 📖 Content:
@@ -63,9 +63,9 @@ Topic: Arrays
 * Copying Arrays (System.arraycopy())
 * ✅ Learned different types of arrays and the Arrays class in Java.
 
----
-### 🗓 Day 6
 
+### 🗓 Day 6
+---
 Topic: Strings and Methods
 
 #### 📖 Content (Strings):
